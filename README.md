@@ -50,10 +50,9 @@ Commit your Changes (git commit -m 'Add some feature')
 Push to the Branch (git push origin feature/YourFeature)
 Open a Pull Request
 
-
 Contact
-Name: [Your Name]
+Name: Adarsha kumar rout
 
-Email: [Your Email]
+Email: adarshrout07@gmail.com
 
-Project Link: https://github.com/your-username/celebi
+Project Link: https://github.com/adarshkumarrout/celebi-a-restaurant-booking-app
